@@ -15,7 +15,7 @@ export default async function ({
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | Umami',
-    default: 'Websites | Umami',
+    template: '%s | Qulytics',
+    default: 'Websites | Qulytics',
   },
 };
